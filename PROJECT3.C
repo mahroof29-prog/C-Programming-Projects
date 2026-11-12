@@ -21,7 +21,7 @@ printf("enter student mark:");
 scanf("%d",&s[i].mark);
 printf("enter student city:");
 scanf("%s",&s[i].city);
-printf("enter studet dream:");
+printf("enter student dream:");
 scanf("%s",&s[i].dream);
 printf("\n");
 }
